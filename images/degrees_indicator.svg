@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="153.88113mm"
+   height="156.03331mm"
+   viewBox="0 0 153.88113 156.0333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="degrees_indicator.svg"
+   inkscape:export-filename="/home/nicolas/Documents/Qt/Qompass/images/degrees_indicator.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.5737093"
+     inkscape:cx="384.34099"
+     inkscape:cy="90.638238"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2">
+    <rect
+       x="237.84126"
+       y="66.963104"
+       width="107.92802"
+       height="61.223614"
+       id="rect23089" />
+    <rect
+       x="170.6665"
+       y="-74.536629"
+       width="342.25119"
+       height="52.105324"
+       id="rect15710" />
+    <rect
+       x="572.9328"
+       y="182.18842"
+       width="118.26585"
+       height="42.484493"
+       id="rect2424" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect1700"
+       is_visible="true"
+       lpeversion="1"
+       pattern="#path956"
+       copytype="repeated_stretched"
+       prop_scale="0.29"
+       scale_y_rel="false"
+       spacing="11.1"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect1571"
+       is_visible="true"
+       lpeversion="1"
+       pattern="#path1301"
+       copytype="repeated_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect1274"
+       is_visible="true"
+       lpeversion="1"
+       pattern="#path1301"
+       copytype="repeated_stretched"
+       prop_scale="1.02"
+       scale_y_rel="false"
+       spacing="1.3"
+       normal_offset="0.5"
+       tang_offset="1"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <rect
+       x="170.6665"
+       y="-74.536629"
+       width="342.25119"
+       height="52.105324"
+       id="rect15710-3" />
+    <rect
+       x="170.6665"
+       y="-74.536629"
+       width="342.25119"
+       height="52.105324"
+       id="rect15710-3-7" />
+    <rect
+       x="170.6665"
+       y="-74.536629"
+       width="342.25119"
+       height="52.105324"
+       id="rect15710-3-7-3" />
+    <rect
+       x="237.84126"
+       y="66.963104"
+       width="107.92802"
+       height="61.223614"
+       id="rect23089-6" />
+    <rect
+       x="237.84126"
+       y="66.963104"
+       width="107.92802"
+       height="61.223614"
+       id="rect23089-9" />
+    <rect
+       x="237.84126"
+       y="66.963104"
+       width="107.92802"
+       height="61.223614"
+       id="rect23089-2" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-22.170647,-79.930785)">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 258.54441,0.32923438 V 24.058829"
+       id="path956" />
+    <path
+       id="path1060"
+       d="m 163.94355,158.6482 h -6.88158 m 5.83135,11.74433 -6.7703,-1.20909 m 3.71824,12.57995 -6.46935,-2.34244 m 1.53874,13.03101 -5.97872,-3.40009 m -0.70714,13.09753 -5.29841,-4.38201 m -3.012,12.76432 -4.42664,-5.26277 m -5.2234,12.02711 -3.44344,-5.95501 m -7.21881,10.95565 -2.37793,-6.45556 m -8.9844,9.55848 -1.23012,-6.76441 m -10.520201,7.83559 v -6.88158 m -11.750326,5.81039 1.230125,-6.76442 m -12.59246,3.66148 2.377938,-6.45555 m -13.040176,1.4549 3.443443,-5.955 m -13.093474,-0.80935 4.426642,-5.26276 m -12.737041,-3.11956 5.298409,-4.382 m -11.984265,-5.31544 5.97872,-3.40008 m -10.909317,-7.2885 6.469352,-2.34243 m -9.521404,-9.02843 6.770307,-1.20908 m -7.820525,-10.53525 6.881582,1e-5 m -5.831341,-11.74434 6.770304,1.20909 m -3.718234,-12.57995 6.469348,2.34245 m -1.538736,-13.03102 5.978714,3.4001 m 0.707154,-13.09753 5.298402,4.38201 m 3.01201,-12.76432 4.426633,5.26278 m 5.22341,-12.02711 3.443434,5.95501 m 7.218812,-10.955643 2.377929,6.455553 m 8.984412,-9.558469 1.230114,6.764415 m 10.520209,-7.8356 -8e-6,6.881582 m 11.750325,-5.81037 -1.23013,6.764411 m 12.59247,-3.66147 -2.37795,6.455551 m 13.04018,-1.4549 -3.44345,5.955 m 13.09348,0.80936 -4.42664,5.26276 m 12.73704,3.11956 -5.29841,4.382 m 11.98425,5.31545 -5.97872,3.40008 m 10.90931,7.2885 -6.46935,2.34243 m 9.52139,9.02844 -6.7703,1.20907"
+       style="fill:none;stroke:#000000;stroke-width:0.594987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:path-effect="#path-effect1700"
+       inkscape:original-d="m 160.50276,158.6482 c 0,17.07511 -6.74424,33.45088 -18.74905,45.52481 -12.00483,12.07394 -28.28686,18.857 -45.264241,18.857 -16.977381,0 -33.259413,-6.78306 -45.264232,-18.857 -12.004821,-12.07393 -18.749059,-28.4497 -18.749059,-45.52481 0,-17.07514 6.744238,-33.45091 18.749059,-45.52485 12.004819,-12.07393 28.286851,-18.856993 45.264232,-18.856993 16.977381,0 33.259411,6.783063 45.264241,18.856993 12.00481,12.07394 18.74905,28.44971 18.74905,45.52485 z"
+       inkscape:export-filename="/home/nicolas/Documents/Qt/Qompass/degrees_indicator.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,28.737893,90.919469)"
+       id="text2422"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2424);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.25329399,0,0,0.25329399,33.578473,209.68284)"
+       id="text23087-7"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect23089-2);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="237.8418"
+         y="103.3579"
+         id="tspan1199">S</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.25329399,0,0,0.25329399,32.390347,60.984927)"
+       id="text23087"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect23089);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="237.8418"
+         y="103.3579"
+         id="tspan1201">N</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.25329399,0,0,0.25329399,106.51706,135.78678)"
+       id="text23087-1"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect23089-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="237.8418"
+         y="103.3579"
+         id="tspan1203">W</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.25329399,0,0,0.25329399,-39.056031,135.83809)"
+       id="text23087-2"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect23089-6);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="237.8418"
+         y="103.3579"
+         id="tspan1205">E</tspan></text>
+  </g>
+</svg>
