@@ -23,10 +23,14 @@
 int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
+    app.setOrganizationDomain("nicmorais.github.io");
+    app.setOrganizationName("nicmorais");
     app.setApplicationName("Qompass");
     app.setApplicationVersion("@QOMPASS_VERSION@");
     QQmlApplicationEngine engine;
     const QUrl url(u"qrc:/qompass/Main.qml"_qs);
+    qmlRegisterSingletonType(
+		QUrl("qrc:/qompass/Theme.qml"), "Theme", 1, 0, "Theme");
     QObject::connect(&engine, &QQmlApplicationEngine::objectCreated,
         &app, [url](QObject *obj, const QUrl &objUrl) {
             if (!obj && url == objUrl)
